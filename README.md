@@ -92,4 +92,5 @@ Save the configuration changes and restart the Wazuh agent service via the GUI o
 4. Perform file operations (create, modify, or delete files) within your monitored `C:\Users\abc\Test` folder.
 5. Confirm that real-time alert logs dynamically pop up on your dashboard.
 
-**Document Reference:** WAZUH-LAB-SIEM-FIM-V1 | Created by VIKNESH V S
+**Document Reference:[wazuh-project.pdf](https://github.com/user-attachments/files/33151253/wazuh-project.pdf)
+** WAZUH-LAB-SIEM-FIM-V1 | Created by VIKNESH V S
